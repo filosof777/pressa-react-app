@@ -1,0 +1,68 @@
+[
+  {
+    "id": 3,
+    "user_id": 3,
+    "fullname": "Atalanta Sowood",
+    "card_image": "netlog.com/nulla/eget/eros.js",
+    "title": "European red squirrel",
+    "date": "2021-12-17T19:12:57.000Z",
+    "category_id": 1,
+    "category_name": "Javascript",
+    "status": "Online"
+  },
+  {
+    "id": 8,
+    "user_id": 8,
+    "fullname": "Lanna Reichartz",
+    "card_image": "php.net/dapibus/dolor/vel/est/donec/odio.jsp",
+    "title": "Snake, eastern indigo",
+    "date": "2021-12-13T06:11:14.000Z",
+    "category_id": 4,
+    "category_name": "Pullarni boshqarish",
+    "status": "Online"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "fullname": "Devland Aubrey",
+    "card_image": "newsvine.com/suspendisse/potenti/in/eleifend/quam/a/odio.jpg",
+    "title": "Alligator, american",
+    "date": "2021-11-22T18:05:55.000Z",
+    "category_id": 1,
+    "category_name": "Javascript",
+    "status": "Offline"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "fullname": "Ricky Meadway",
+    "card_image": "aol.com/rhoncus/dui/vel/sem/sed/sagittis.xml",
+    "title": "Sheep, red",
+    "date": "2021-10-08T08:39:35.000Z",
+    "category_id": 2,
+    "category_name": "Golang",
+    "status": "Online"
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "fullname": "Daune Larrat",
+    "card_image": "ovh.net/sodales.aspx",
+    "title": "Lizard, frilled",
+    "date": "2021-10-06T14:22:52.000Z",
+    "category_id": 2,
+    "category_name": "Golang",
+    "status": "Online"
+  },
+  {
+    "id": 1,
+    "user_id": 1,
+    "fullname": "Doreen Glitherow",
+    "card_image": "independent.co.uk/ultrices/erat/tortor/sollicitudin/mi/sit.aspx",
+    "title": "Common grenadier",
+    "date": "2021-09-05T15:24:55.000Z",
+    "category_id": 1,
+    "category_name": "Javascript",
+    "status": "Online"
+  }
+]
